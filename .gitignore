@@ -1,0 +1,15 @@
+# Environment variables / secrets
+.env
+
+# Dependencies
+/vendor/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
